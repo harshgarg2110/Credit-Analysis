@@ -264,6 +264,7 @@ main p{
     font-size: 50px;
     position: relative;
     bottom: 35px;
+    text-decoration: none;
 }
 
 .about .about_tag p {
@@ -271,6 +272,7 @@ main p{
     width: 650px;
     text-align: justify;
     margin-bottom: 15px;
+    text-decoration: none;
 }
 
 .about .about_tag .about_btn {
