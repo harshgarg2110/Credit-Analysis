@@ -14,8 +14,10 @@ header{
     justify-content: space-around;
     align-items: center;
     position: relative;
-    box-shadow: 0 0 10px #7171d3;
+    box-shadow: 0 0 10px grey;
     position:fixed;
+    width: 100%;
+     background-color: white;
 }
 
 .logo{
