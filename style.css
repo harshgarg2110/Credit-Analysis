@@ -15,6 +15,7 @@ header{
     align-items: center;
     position: relative;
     box-shadow: 0 0 10px #7171d3;
+    position:fixed;
 }
 
 .logo{
